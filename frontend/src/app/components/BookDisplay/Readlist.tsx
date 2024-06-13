@@ -45,7 +45,7 @@ const Readlist = ({books,  removeFromReadList}:Props) => {
           </Box>
           <Box>
             <p style= {{fontWeight:'900', fontSize:'14px', color:'black'}}> 
-              Anne's Reading List
+              Anne&apos;s Reading List 
             </p>
             <p style= {{fontWeight:'300', fontSize:'12px', color:'gray'}}> 
               12 years
